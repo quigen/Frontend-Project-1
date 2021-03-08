@@ -1,0 +1,201 @@
+body{
+  background-image: url('../images/bg-pattern-top-desktop.svg'), url('../images/bg-pattern-bottom-desktop.svg');
+  background-position: -80px 0px, 180px 100px;
+  background-color: #FFFFFF;
+  background-blend-mode: darken;
+  background-repeat: no-repeat, no-repeat;
+ }
+ .P1 {
+ 	color: #4a1f4d;
+ 	font: bolder 45px Century Gothic;
+ 	line-height: 42px;
+ 	height: 130px ;
+ 	width:  350px;
+ 	position: relative;
+ 	top: 70px;
+ 	left: 150px;
+ }
+ .P2 {
+ 	font: normal 13px Century Gothic;
+ 	line-height: 20px;
+ 	color: #A9A9A9;
+  	height:50px ;
+  	width: 370px;
+	position: absolute;
+	top: 240px; 
+	left: 160px ;
+}
+.star1{
+  height: 25px;
+  width: 350px;
+  background-color: #F5F5F5;
+  border-radius: 5px;
+  padding: 10px 0px 5px 20px;
+  position: relative;
+  top: -100px;
+  left: 660px;
+}
+.S1{
+  display: inline;
+  color: #4a1f4d;
+  padding: 0px 5px;
+  font: bold 13px Century Gothic;
+}
+.star2{
+  height: 25px;
+  width: 350px;
+  background-color: #F5F5F5;
+  border-radius: 5px;
+  padding: 10px 0px 5px 20px;
+  position: relative;
+  top: -85px;
+  left: 700px;
+}
+.S2{
+  display: inline;
+  color: #4a1f4d;
+  padding: 0px 5px;
+  font: bold 13px Century Gothic;
+}
+.star3{
+  height: 25px;
+  width: 350px;
+  background-color: #F5F5F5;
+  border-radius: 5px;
+  padding: 10px 0px 5px 20px;
+  position: relative;
+  top: -70px;
+  left: 750px;
+}
+.S3{
+  display: inline;
+  color: #4a1f4d;
+  padding: 0px 5px;
+  font: bold 13px Century Gothic;
+}
+#Colton {
+  background-color: #4a1f4d;
+  border-radius: 8px;
+  width: 310px;
+  height: 210px;
+  position: relative;
+  left: 150px;
+  top: 20px;
+  padding: 0px;
+  display: inline-block;
+}
+
+#coltonPhoto{
+	border-radius:50px;
+	width: 40px;
+	position: absolute;
+	top: 35px;
+	left: 30px;
+}
+.coltonName{
+  font: bold 13px Century Gothic;
+  color: #e6e6e6;
+  position: absolute;
+  top: 40px; 
+  left: 100px;
+}
+.coltonPosition {
+  font: normal 12px Century Gothic;
+  color: #b300b3;
+  position: absolute;
+  top: 45px; 
+  left: 100px;
+}
+.byColton {
+  font: normal 12px Century Gothic;
+  word-spacing: -1px;
+  line-height: 20px;
+  color: #e6e6e6;
+  position: absolute;
+  top: 90px;
+  left: -10px;
+}
+#Irene {
+  background-color: #4a1f4d;
+  border-radius: 8px;
+  width: 310px;
+  height: 210px;
+  position: relative;
+  left: 165px;
+  top: 35px;
+  padding: 0px;
+  display: inline-block;
+}
+
+#irenePhoto{
+	border-radius:50px;
+	width: 40px;
+	position: absolute;
+	top: 35px;
+	left: 30px;
+}
+.ireneName{
+  font: bold 13px Century Gothic;
+  color: #e6e6e6;
+  position: absolute;
+  top: 40px; 
+  left: 100px;
+}
+.irenePosition {
+  font: normal 12px Century Gothic;
+  color: #b300b3;
+  position: absolute;
+  top: 45px; 
+  left: 100px;
+}
+.byIrene {
+  font: normal 12px Century Gothic;
+  word-spacing: -1px;
+  line-height: 20px;
+  color: #e6e6e6;
+  position: absolute;
+  top: 90px;
+  left: -10px;
+}
+#Anne {
+  background-color: #4a1f4d;
+  border-radius: 8px;
+  width: 310px;
+  height: 210px;
+  position: relative;
+  left: 180px;
+  top: 50px;
+  padding: 0px;
+  display: inline-block;
+}
+
+#annePhoto{
+	border-radius:50px;
+	width: 40px;
+	position: absolute;
+	top: 35px;
+	left: 30px;
+}
+.anneName{
+  font: bold 13px Century Gothic;
+  color: #e6e6e6;
+  position: absolute;
+  top: 40px; 
+  left: 100px;
+}
+.annePosition {
+  font: normal 12px Century Gothic;
+  color: #b300b3;
+  position: absolute;
+  top: 45px; 
+  left: 100px;
+}
+.byAnne {
+  font: normal 12px Century Gothic;
+  word-spacing: -1px;
+  line-height: 20px;
+  color: #e6e6e6;
+  position: absolute;
+  top: 90px;
+  left: -10px;
+}
